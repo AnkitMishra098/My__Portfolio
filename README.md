@@ -31,4 +31,3 @@ This portfolio reflects my **work, interests, and projects** in a **clean and re
 
 ---
 
-## 📂 Project Structure  
